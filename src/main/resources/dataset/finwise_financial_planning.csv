@@ -1,0 +1,101 @@
+﻿Name,Age,Occupation,Month Income,Annual Income,Expenses,Savings,Number of Assets,Current Value of Assets,Do you currently have any liabilities?,Type of liability,Risk Tolerance,Future Goals,Future Goal Amount,Future Goal Timeline,Do you have an emergency fund?,Do you have health insurance?,Amount of Health Insurance,What is most important to you when choosing a financial plan?
+Aarav Sharma,32,Software Engineer,"₹1,66,667","₹20,00,001 – ₹50,00,000","  ₹9,00,000","  ₹11,00,000",5,"  ₹25,00,000",Yes,Home Loan,Moderate,"Child Education, Retirement","₹50,00,001 – ₹1 Crore",10–20 years,Yes,Yes,"₹15,00,000",Balanced Growth
+Aditi Patil,35,Software Engineer,"₹1,20,000","₹10,00,001 – ₹20,00,000","₹65,000","₹55,000",3,"₹18,00,000",Yes,Home Loan,High,"Buying a House, Buying a Vehicle","₹50,00,001 – ₹1 Crore",3–5 years,Yes,Yes,"₹10,00,000",Maximum Wealth Creation
+Rohan Kulkarni,21,Student ,2000,"Below ₹50,000",20000,5000,3,5,No,Personal Loan,Moderate,"Travel / Vacation, Starting a Business, Wealth Creation","Below ₹1,00,000",Within 1 year,Yes,Yes,15000,Balanced Growth
+Sneha Deshmukh,52,Farmer ,20000,"₹1,00,001 – ₹2,00,000","Electricity bill, water supply bill, college fees , farming essentials ",80000,2,"Land - 10,00,000 , House - 2,00,000",Yes,"Home Loan, Education Loan",Low,Buying a Vehicle,"₹1,00,000 – ₹5,00,000",1–3 years,Partially,Yes,"1,00,000",Balanced Growth
+Aditya Joshi,50,School  Teacher,45000,"₹5,00,001 – ₹10,00,000","₹3,60,000","₹1,80,000",4,"₹18,00,000",Yes,Home Loan,Low,"Retirement, Daughter's Marraige","₹25,00,001 – ₹50,00,000",5–10 years,Yes,Yes,"₹7,00,000",Maximum Safety
+Priya Shah,58,Employee,60000,"₹5,00,001 – ₹10,00,000",30000,7lakh,2,5lakh,No,Not Provided,Low,"Buying a House, Retirement","₹5,00,001 – ₹10,00,000",3–5 years,Yes,Yes,5000,Maximum Safety
+Rahul Mehta,21,Unemployed ,0,"Below ₹50,000",7000,500,2,100000,Yes,"Personal Loan, Vehicle Loan, Business Loan",Low,"Buying a House, Travel / Vacation, Wealth Creation","₹25,00,001 – ₹50,00,000",5–10 years,Yes,Yes,50000,Balanced Growth
+Neha Chavan,45,Farmer ,10000,"₹50,000 – ₹1,00,000","3,000 - 4,000",50000,2,"House , Land ",No,Not Provided,Low,Emergency Fund,"Below ₹1,00,000",Within 1 year,No,Yes,"40,000/year",Maximum Safety
+Kunal More,21,Engineer,25000,"₹2,00,001 – ₹5,00,000","Transport, Food, Stay",10000,4,15000,No,Not Provided,Moderate,Wealth Creation,Above ₹2 Crore,10–20 years,No,Yes,1000000,Maximum Wealth Creation
+Pooja Jadhav,21,Student ,Not Provided,"Below ₹50,000",Not Provided,Not Provided,1,Not Provided,No,Not Provided,Moderate,Higher Education,₹1 Crore – ₹2 Crore,1–3 years,No,Yes,Not Provided,A Combination of the Above
+Akash Pawar,50,Pharmacist / Medical Store Employee,40000,"₹50,000 – ₹1,00,000","Schools fees , EMIs, electricity bill, water supply bill, household stuffs, monthly medicines",70000,2,"Land - 8,00,000 , House - 3,00,000",Yes,"Personal Loan, Vehicle Loan",Moderate,Starting a Business,"₹1,00,000 – ₹5,00,000",Within 1 year,No,Yes,"1,00,000",Maintaining Liquidity
+Isha Kulkarni,21,Student,-,"Below ₹50,000",2000,500,1,-,No,Other,Moderate,"Travel / Vacation, ","Below ₹1,00,000",Within 1 year,No,No,-,Balanced Growth
+Siddharth Patil,40,Assistant Professor ,140000,"₹10,00,001 – ₹20,00,000",80000,60000,1,1cr,Yes,Home Loan,Moderate,Wealth Creation,Above ₹2 Crore,10–20 years,Yes,Yes,1cr,Maximum Wealth Creation
+Ananya Deshmukh,40,Housewife ,30000,"₹2,00,001 – ₹5,00,000",5000,25000,3,400000,No,Not Provided,Low,Retirement,"₹10,00,001 – ₹25,00,000",5–10 years,Yes,Yes,30000,Maximum Safety
+Vivek Sharma,36,Farmer ,10000,"₹2,00,001 – ₹5,00,000",4000,6000,3,450000,Yes,"Education Loan, Personal Loan",Low,"Buying a House, Buying a Vehicle, Child Education, Emergency Fund, Marriage","₹10,00,001 – ₹25,00,000",5–10 years,Yes,No,Not Provided,Maximum Safety
+Riya Shah,20,Student,Na,"Below ₹50,000","Clothes,shoes,makeup etc",10000,1,560000,No,Not Provided,Low,Buying a House,Above ₹2 Crore,1–3 years,Yes,Yes,1,A Combination of the Above
+Omkar Joshi,21,Student ,8000,"₹50,000 – ₹1,00,000",Basic daily expenses ,Currently no savings,1,No idea,No,Not Provided,Moderate,"Buying a House, Child Education, Retirement, Emergency Fund, Travel / Vacation",₹1 Crore – ₹2 Crore,5–10 years,No,Yes,No idea,A Combination of the Above
+Kavya More,21,Employee,30000,"₹5,00,001 – ₹10,00,000",20000,10000,3,50000,Yes,Vehicle Loan,Moderate,"Buying a House, Higher Education","₹5,00,001 – ₹10,00,000",3–5 years,Yes,Yes,500 per month,Balanced Growth
+Nikhil Pawar,19,Student ,10000,"₹50,000 – ₹1,00,000","Transport,petrol ,zerox ",No,1,100000,No,Not Provided,High,Other,₹1 Crore – ₹2 Crore,1–3 years,No,No,No,A Combination of the Above
+Snehal Jadhav,25,Employed,80000,"₹10,00,001 – ₹20,00,000",45000,20000,2,2lakh,Yes,"Home Loan, Personal Loan",Moderate,Starting a Business,"₹10,00,001 – ₹25,00,000",3–5 years,Yes,Yes,1000per month,Balanced Growth
+Yash Mehta,42,Businessman ,50000,"₹10,00,001 – ₹20,00,000",20000,10000,2,400000,Yes,"Personal Loan, Vehicle Loan",Low,"Buying a House, Child Education, Retirement, Emergency Fund, Travel / Vacation, Wealth Creation","₹25,00,001 – ₹50,00,000",5–10 years,Yes,Yes,75000,Maintaining Liquidity
+Tanvi Chavan,41,Business women,1lakh ,"₹10,00,001 – ₹20,00,000",40000,30000,4,5lakh,Yes,"Home Loan, Business Loan",High,Retirement,"₹25,00,001 – ₹50,00,000",5–10 years,Yes,Yes,1000 per month,A Combination of the Above
+Saurabh Patil,42,Business Owner,"₹2,50,000","₹20,00,001 – ₹50,00,000","₹1,35,000","₹1,15,000",5,"₹75,00,000",Yes,Business Loan,High,Wealth Creation,"₹50,00,001 – ₹1 Crore",5–10 years,Yes,Yes,"₹20,00,000",Maximum Wealth Creation
+Mitali Kulkarni,21,Student ,Not Provided,"Below ₹50,000",12000,30000,3,500000,Yes,Home Loan,Moderate,"Buying a Vehicle, Higher Education, Travel / Vacation","₹25,00,001 – ₹50,00,000",5–10 years,Partially,Yes,500000,Maximum Wealth Creation
+Harsh Deshmukh,21,Employee ,25000,"₹2,00,001 – ₹5,00,000",60000,50000,2,50000,Yes,Personal Loan,Low,Travel / Vacation,"₹1,00,000 – ₹5,00,000",1–3 years,Yes,Yes,"2,00,000",A Combination of the Above
+Sakshi Sharma,25,Engineer,60000,"₹5,00,001 – ₹10,00,000","4,20,000","2,80,000",3,"5,00,000",Yes,Education Loan,Moderate,"Buying a House, Child Education","₹25,00,001 – ₹50,00,000",5–10 years,Yes,Yes,"5,00,000",Maximum Safety
+Abhishek Joshi,29,Student,"₹25,000","₹2,00,001 – ₹5,00,000","₹18,000","₹7,000",1,"₹80,000",No,Not Provided,Low,Higher Education,"₹1,00,000 – ₹5,00,000",1–3 years,No,No,0,Maximum Safety
+Nikita More,23,Working ,20000,"₹1,00,001 – ₹2,00,000",5000,5000,1,100000,No,Not Provided,Moderate,Wealth Creation,₹1 Crore – ₹2 Crore,10–20 years,No,Yes,1000000,A Combination of the Above
+Pranav Pawar,24,Salaried Employee,"₹45,000","₹2,00,001 – ₹5,00,000","₹28,000","₹17,000",1,"₹1,20,000",No,Not Provided,Moderate,Higher Education,"₹5,00,001 – ₹10,00,000",1–3 years,Partially,Yes,"₹5,00,000",Balanced Growth
+Shruti Jadhav,50,Employee,2lakh,"Above ₹50,00,000",1lakh,20lakh,3,50lakh,Yes,"Home Loan, Vehicle Loan",High,"Buying a House, Child Education, Retirement","₹50,00,001 – ₹1 Crore",10–20 years,Yes,Yes,2lakh,Maximum Safety
+Tejas Patil,21,Engineer ,40000,"₹50,000 – ₹1,00,000",30000,10000,1,10000,Yes,Personal Loan,Moderate,"Buying a House, Buying a Vehicle, Travel / Vacation","₹10,00,001 – ₹25,00,000",3–5 years,No,No,Not Provided,Balanced Growth
+Manasi Shah,35,Employee,1lakh ,"₹20,00,001 – ₹50,00,000",20000,10lakh,5,5lakh,No,Not Provided,High,"Buying a House, Marriage","₹10,00,001 – ₹25,00,000",3–5 years,Yes,Yes,10000,A Combination of the Above
+Atharva Kulkarni,51,Service,80000,"₹5,00,001 – ₹10,00,000","EMIs, household items, water, Gas, electricity bills, school and college fees, Transport (Petrol, Disel), Monthly Medicine  ","Overall 7,00,000 - 8,00,000",3,"Land , House , Gold",Yes,"Home Loan, Credit Card Debt",Moderate,"Child Education, Higher Education","₹5,00,001 – ₹10,00,000",3–5 years,Yes,Yes,"1,00,000",Maximum Wealth Creation
+Pallavi Deshmukh,20, Technical Intern,15000,"₹2,00,001 – ₹5,00,000",5000,10000,1,50000,No,Not Provided,Moderate,"Buying a House, Buying a Vehicle, Higher Education, Travel / Vacation, Starting a Business, Wealth Creation","₹10,00,001 – ₹25,00,000",3–5 years,Partially,No,0,A Combination of the Above
+Vishal Sharma,44,Service,60000,"₹5,00,001 – ₹10,00,000","EMI, household stuffs, electricity bill, water supply bill, parents medicine , Internet bill, Insurance premium                                                            ","2,00,000",1,"House - 30,00,00",Yes,"Home Loan, Credit Card Debt",Moderate,"Buying a Vehicle, Marriage","₹5,00,001 – ₹10,00,000",1–3 years,Yes,Yes,"3,00,000",A Combination of the Above
+Simran Chavan,58,Doctor,5000,60000,3557,1443,2,100000,Yes,Business Loan,Low,Marriage,100000,10 Years,No,Yes,100000,High Returns
+Ruturaj More,31,Bank Employee,125000,1500000,81605,43395,2,2500000,No,Not Provided,Low,Investment,5000000,3 Years,Yes,Yes,500000,Tax Saving
+Swara Patil,35,Nurse,22000,264000,17644,4356,3,50000,Yes,Vehicle Loan,Low,Business,750000,10 Years,No,Yes,500000,Long-term Growth
+Chaitanya Joshi,25,HR Executive,10000,120000,6318,3682,3,1000000,Yes,Business Loan,Low,Higher Education,300000,3 Years,Yes,Yes,100000,Liquidity
+Vaishnavi Pawar,35,Government Employee,50000,600000,23415,26585,3,100000,No,Not Provided,High,Home Purchase,5000000,15 Years,Yes,Yes,200000,Liquidity
+Aniket Jadhav,42,Civil Engineer,150000,1800000,73835,76165,3,20000,Yes,Home Loan,Moderate,Travel,500000,1 Year,Yes,No,0,Low Risk
+Mrunal Mehta,59,Lawyer,60000,720000,46294,13706,5,75000,No,Not Provided,Low,Retirement,2500000,10 Years,No,No,0,Long-term Growth
+Soham Kulkarni,43,Marketing Executive,25000,300000,20471,4529,2,750000,No,Not Provided,Low,Higher Education,100000,2 Years,Yes,No,0,Long-term Growth
+Rashmi Deshmukh,22,HR Executive,60000,720000,39016,20984,5,750000,No,Not Provided,High,Higher Education,100000,15 Years,No,No,0,High Returns
+Parth Shah,36,Sales Executive,18000,216000,10630,7370,3,750000,Yes,Credit Card Debt,Low,Emergency Fund,2500000,10 Years,Yes,Yes,300000,Low Risk
+Gauri Patil,52,Journalist,125000,1500000,98220,26780,3,500000,Yes,Home Loan,Moderate,Emergency Fund,300000,1 Year,Yes,Yes,100000,Liquidity
+Nitin More,22,Journalist,150000,1800000,108247,41753,2,1500000,No,Not Provided,High,Car Purchase,500000,10 Years,No,Yes,1000000,Low Risk
+Ayesha Khan,37,HR Executive,50000,600000,29200,20800,5,50000,Yes,Education Loan,Low,Business,50000,10 Years,Yes,Yes,100000,High Returns
+Raj Malhotra,58,Data Analyst,25000,300000,10707,14293,1,200000,Yes,Credit Card Debt,Low,Emergency Fund,1500000,2 Years,Yes,No,0,Low Risk
+Meera Nair,48,Sales Executive,22000,264000,9671,12329,4,200000,No,Not Provided,Moderate,Investment,50000,15 Years,Yes,Yes,500000,Tax Saving
+Arjun Verma,24,Bank Employee,22000,264000,10557,11443,5,75000,No,Not Provided,Low,Emergency Fund,1500000,2 Years,Yes,No,0,Long-term Growth
+Divya Rao,24,Data Analyst,150000,1800000,112669,37331,1,100000,Yes,Vehicle Loan,Moderate,Investment,300000,5 Years,Yes,Yes,500000,High Returns
+Manav Gupta,42,Civil Engineer,85000,1020000,44183,40817,5,75000,Yes,Personal Loan,Low,Higher Education,5000000,15 Years,Yes,No,0,High Returns
+Shreya Singh,21,Freelancer,100000,1200000,61119,38881,2,20000,Yes,Education Loan,Low,Home Purchase,300000,5 Years,Yes,Yes,1000000,Long-term Growth
+Varun Kapoor,20,Student,10000,120000,6760,3240,3,150000,Yes,Business Loan,High,Business,300000,3 Years,No,Yes,300000,Liquidity
+Kiran Reddy,38,Journalist,10000,120000,4039,5961,1,50000,Yes,Credit Card Debt,Moderate,Car Purchase,750000,1 Year,Yes,No,0,Tax Saving
+Priti Agarwal,28,Government Employee,150000,1800000,104323,45677,1,1500000,No,Not Provided,High,Home Purchase,200000,3 Years,Yes,Yes,1000000,Low Risk
+Ritesh Sinha,35,Mechanical Engineer,220000,2640000,107462,112538,3,100000,No,Not Provided,High,Investment,500000,1 Year,Yes,No,0,Tax Saving
+Komal Yadav,20,Software Engineer,40000,480000,28954,11046,3,75000,No,Not Provided,High,Travel,2500000,1 Year,Yes,Yes,200000,Long-term Growth
+Aman Mishra,20,Marketing Executive,180000,2160000,113770,66230,4,75000,Yes,Personal Loan,Moderate,Higher Education,750000,2 Years,Yes,Yes,300000,Long-term Growth
+Ritika Joshi,44,Student,5000,60000,3815,1185,2,300000,Yes,Education Loan,High,Business,1000000,15 Years,Yes,No,0,Low Risk
+Deepak Tiwari,24,HR Executive,8000,96000,6084,1916,2,100000,No,Not Provided,Moderate,Emergency Fund,300000,2 Years,Yes,Yes,500000,Tax Saving
+Nandini Rao,35,Teacher,30000,360000,16424,13576,4,1500000,No,Not Provided,Low,Home Purchase,500000,2 Years,No,Yes,100000,Long-term Growth
+Sahil Bhosale,45,Marketing Executive,40000,480000,23331,16669,1,300000,Yes,Personal Loan,Low,Travel,50000,10 Years,Yes,No,0,Liquidity
+Madhura Pawar,22,Entrepreneur,40000,480000,26469,13531,1,2500000,No,Not Provided,High,Emergency Fund,1000000,3 Years,No,No,0,Long-term Growth
+Abhinav Desai,26,Business Owner,70000,840000,47548,22452,4,1500000,Yes,Credit Card Debt,High,Emergency Fund,1000000,10 Years,Yes,No,0,Tax Saving
+Anushka Naik,31,Sales Executive,180000,2160000,117863,62137,3,500000,No,Not Provided,Moderate,Retirement,2500000,5 Years,Yes,Yes,300000,Long-term Growth
+Ganesh Shinde,60,Consultant,220000,2640000,118971,101029,2,1500000,No,Not Provided,Low,Retirement,200000,1 Year,Yes,Yes,500000,Long-term Growth
+Mansi Wagh,22,Government Employee,70000,840000,54052,15948,2,2500000,No,Not Provided,Moderate,Travel,300000,2 Years,Yes,Yes,500000,Low Risk
+Rohit Salunkhe,29,Electrician,125000,1500000,74388,50612,2,50000,No,Not Provided,Low,Investment,2500000,10 Years,No,No,0,Long-term Growth
+Sonal Kadam,50,Sales Executive,150000,1800000,88092,61908,2,2500000,No,Not Provided,Moderate,Emergency Fund,300000,15 Years,No,No,0,Low Risk
+Swapnil Gaikwad,35,Government Employee,10000,120000,6996,3004,2,150000,No,Not Provided,Moderate,Marriage,100000,2 Years,Yes,Yes,500000,Low Risk
+Prachi Khot,31,Teacher,70000,840000,39983,30017,5,300000,Yes,Education Loan,Moderate,Travel,5000000,15 Years,Yes,No,0,Liquidity
+Mahesh Borkar,18,Marketing Executive,35000,420000,25076,9924,4,750000,Yes,Vehicle Loan,Low,Emergency Fund,1000000,5 Years,Yes,No,0,Tax Saving
+Aishwarya Mane,60,Entrepreneur,60000,720000,42249,17751,5,75000,Yes,Vehicle Loan,High,Higher Education,100000,15 Years,No,Yes,500000,Low Risk
+Vikram Sawant,21,Civil Engineer,60000,720000,32249,27751,5,200000,No,Not Provided,Moderate,Emergency Fund,1000000,3 Years,Yes,No,0,High Returns
+Rupali Patil,52,Data Analyst,50000,600000,24708,25292,1,1500000,Yes,Home Loan,Low,Retirement,50000,10 Years,Yes,Yes,200000,Liquidity
+Sanket Dhumal,60,Doctor,180000,2160000,143650,36350,5,2500000,No,Not Provided,Moderate,Car Purchase,5000000,10 Years,Yes,Yes,300000,High Returns
+Bhagyashree More,55,Software Engineer,35000,420000,22464,12536,4,300000,Yes,Home Loan,High,Retirement,100000,15 Years,No,Yes,1000000,High Returns
+Nilesh Shinde,40,Architect,70000,840000,47448,22552,1,750000,No,Not Provided,Low,Travel,1500000,1 Year,No,No,0,Liquidity
+Rutuja Pawar,27,Sales Executive,18000,216000,12747,5253,3,1000000,No,Not Provided,Moderate,Travel,5000000,3 Years,No,Yes,100000,Tax Saving
+Sachin Jadhav,46,Bank Employee,85000,1020000,54343,30657,4,200000,Yes,Vehicle Loan,Moderate,Car Purchase,1500000,2 Years,No,No,0,Tax Saving
+Tejal Chavan,35,Student,12000,144000,4851,7149,2,50000,Yes,Business Loan,Moderate,Investment,2500000,2 Years,No,No,0,Liquidity
+Pratik Desai,19,Teacher,35000,420000,17257,17743,2,150000,No,Not Provided,Moderate,Marriage,2500000,3 Years,No,No,0,Tax Saving
+Sonali Kulkarni,47,Civil Engineer,35000,420000,17695,17305,1,2500000,Yes,Personal Loan,Low,Marriage,200000,2 Years,Yes,No,0,Tax Saving
+Amol Patil,55,Journalist,125000,1500000,81331,43669,1,100000,No,Not Provided,Low,Business,200000,3 Years,Yes,Yes,300000,High Returns
+Poonam Joshi,21,Architect,35000,420000,24252,10748,2,1500000,No,Not Provided,Low,Higher Education,5000000,3 Years,No,No,0,Liquidity
+Mangesh Pawar,39,Accountant,8000,96000,4048,3952,5,50000,Yes,Vehicle Loan,Moderate,Home Purchase,5000000,15 Years,Yes,Yes,200000,Long-term Growth
+Reshma Deshmukh,37,Teacher,25000,300000,11243,13757,4,1000000,Yes,Credit Card Debt,Moderate,Investment,1500000,3 Years,No,No,0,Long-term Growth
+Siddhi More,57,Data Analyst,220000,2640000,176714,43286,1,100000,Yes,Personal Loan,High,Home Purchase,200000,2 Years,Yes,Yes,200000,High Returns
+Abhay Sharma,44,Government Employee,220000,2640000,131419,88581,1,100000,No,Not Provided,High,Emergency Fund,1500000,1 Year,Yes,No,0,Long-term Growth
+Ishita Mehta,60,Business Owner,70000,840000,31374,38626,2,1500000,Yes,Personal Loan,Low,Home Purchase,50000,2 Years,No,No,0,Liquidity
+Rakesh Verma,25,Government Employee,35000,420000,24286,10714,3,750000,No,Not Provided,Moderate,Home Purchase,5000000,1 Year,No,No,0,Long-term Growth
+Nisha Kapoor,34,Software Engineer,10000,120000,4961,5039,1,1500000,No,Not Provided,High,Higher Education,200000,5 Years,No,No,0,Low Risk
+Akshay Rao,55,Sales Executive,100000,1200000,80700,19300,5,200000,No,Not Provided,Moderate,Business,100000,2 Years,No,No,0,Liquidity
+Rekha Nair,36,Entrepreneur,60000,720000,44501,15499,1,500000,Yes,Personal Loan,Moderate,Business,100000,5 Years,Yes,No,0,Liquidity
+Mohit Gupta,21,Business Owner,125000,1500000,68993,56007,5,1500000,No,Not Provided,Low,Retirement,500000,10 Years,Yes,No,0,Liquidity
+Payal Singh,49,Doctor,5000,60000,4043,957,2,2500000,Yes,Personal Loan,High,Higher Education,2500000,5 Years,Yes,Yes,100000,Liquidity
+Sumeet Yadav,25,Consultant,15000,180000,9139,5861,3,750000,No,Not Provided,Moderate,Investment,1500000,2 Years,No,Yes,500000,Low Risk
+Vikas Deshmukh,56,Pharmacist,15000,180000,11443,3557,3,300000,No,Not Provided,High,Emergency Fund,50000,3 Years,No,No,0,Low Risk
