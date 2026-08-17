@@ -1,5 +1,6 @@
 package com.finwise.finwise_backend.service;
 
+import com.finwise.finwise_backend.dto.RiskAssessmentDTO;
 import com.finwise.finwise_backend.entity.RiskAssessment;
 import com.finwise.finwise_backend.repository.RiskAssessmentRepository;
 import org.springframework.stereotype.Service;
@@ -15,16 +16,26 @@ public class RiskAssessmentService {
         this.repository = repository;
     }
 
-    public RiskAssessment saveRiskAssessment(RiskAssessment riskAssessment) {
+    public RiskAssessment saveRiskAssessment(RiskAssessmentDTO dto) {
+
         Optional<RiskAssessment> existing =
-                repository.findByUserId(riskAssessment.getUserId());
+                repository.findByUserId(dto.getUserId());
 
         if (existing.isPresent()) {
+
             RiskAssessment current = existing.get();
-            current.setRiskScore(riskAssessment.getRiskScore());
-            current.setRiskCategory(riskAssessment.getRiskCategory());
+
+            current.setRiskScore(dto.getRiskScore());
+            current.setRiskCategory(dto.getRiskCategory());
+
             return repository.save(current);
         }
+
+        RiskAssessment riskAssessment = new RiskAssessment();
+
+        riskAssessment.setUserId(dto.getUserId());
+        riskAssessment.setRiskScore(dto.getRiskScore());
+        riskAssessment.setRiskCategory(dto.getRiskCategory());
 
         return repository.save(riskAssessment);
     }

@@ -1,5 +1,6 @@
 package com.finwise.finwise_backend.controller;
 
+import com.finwise.finwise_backend.dto.GoalDTO;
 import com.finwise.finwise_backend.entity.Goal;
 import com.finwise.finwise_backend.service.GoalService;
 import org.springframework.web.bind.annotation.*;
@@ -18,8 +19,8 @@ public class GoalController {
     }
 
     @PostMapping
-    public Goal createGoal(@RequestBody Goal goal) {
-        return goalService.createGoal(goal);
+    public Goal createGoal(@RequestBody GoalDTO dto) {
+        return goalService.createGoal(dto);
     }
 
     @GetMapping("/{userId}")
@@ -30,8 +31,8 @@ public class GoalController {
     @PutMapping("/{id}")
     public Goal updateGoal(
             @PathVariable Long id,
-            @RequestBody Goal goal) {
-        return goalService.updateGoal(id, goal);
+            @RequestBody GoalDTO dto) {
+        return goalService.updateGoal(id, dto);
     }
 
     @DeleteMapping("/{id}")

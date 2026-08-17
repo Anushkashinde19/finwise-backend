@@ -1,5 +1,6 @@
 package com.finwise.finwise_backend.controller;
 
+import com.finwise.finwise_backend.dto.RiskAssessmentDTO;
 import com.finwise.finwise_backend.entity.RiskAssessment;
 import com.finwise.finwise_backend.service.RiskAssessmentService;
 import org.springframework.http.ResponseEntity;
@@ -17,12 +18,16 @@ public class RiskAssessmentController {
     }
 
     @PostMapping
-    public RiskAssessment saveRiskAssessment(@RequestBody RiskAssessment riskAssessment) {
-        return service.saveRiskAssessment(riskAssessment);
+    public RiskAssessment saveRiskAssessment(
+            @RequestBody RiskAssessmentDTO dto) {
+
+        return service.saveRiskAssessment(dto);
     }
 
     @GetMapping("/{userId}")
-    public ResponseEntity<RiskAssessment> getRiskAssessment(@PathVariable Long userId) {
+    public ResponseEntity<RiskAssessment> getRiskAssessment(
+            @PathVariable Long userId) {
+
         return service.getByUserId(userId)
                 .map(ResponseEntity::ok)
                 .orElse(ResponseEntity.notFound().build());

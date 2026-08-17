@@ -1,16 +1,9 @@
-package com.finwise.finwise_backend.entity;
+package com.finwise.finwise_backend.dto;
 
-import jakarta.persistence.*;
 import lombok.Data;
 
-@Entity
-@Table(name = "users")
 @Data
-public class User {
-
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+public class UserDTO {
 
     private String name;
     private String email;
@@ -23,6 +16,7 @@ public class User {
     private double monthlyExpenses;
     private double assets;
     private double liabilities;
+
     private String riskTolerance;
     private double emergencyFund;
     private double healthInsurance;

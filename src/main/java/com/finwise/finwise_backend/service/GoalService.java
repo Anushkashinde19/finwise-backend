@@ -1,5 +1,6 @@
 package com.finwise.finwise_backend.service;
 
+import com.finwise.finwise_backend.dto.GoalDTO;
 import com.finwise.finwise_backend.entity.Goal;
 import com.finwise.finwise_backend.repository.GoalRepository;
 import org.springframework.stereotype.Service;
@@ -15,7 +16,17 @@ public class GoalService {
         this.goalRepository = goalRepository;
     }
 
-    public Goal createGoal(Goal goal) {
+    public Goal createGoal(GoalDTO dto) {
+
+        Goal goal = new Goal();
+
+        goal.setUserId(dto.getUserId());
+        goal.setGoalName(dto.getGoalName());
+        goal.setTargetAmount(dto.getTargetAmount());
+        goal.setCurrentAmount(dto.getCurrentAmount());
+        goal.setTargetYear(dto.getTargetYear());
+        goal.setPriority(dto.getPriority());
+
         return goalRepository.save(goal);
     }
 
@@ -23,11 +34,7 @@ public class GoalService {
         return goalRepository.findByUserId(userId);
     }
 
-    public Goal getGoal(Long id) {
-        return goalRepository.findById(id).orElse(null);
-    }
-
-    public Goal updateGoal(Long id, Goal goal) {
+    public Goal updateGoal(Long id, GoalDTO dto) {
 
         Goal existingGoal = goalRepository.findById(id).orElse(null);
 
@@ -35,12 +42,12 @@ public class GoalService {
             return null;
         }
 
-        existingGoal.setUserId(goal.getUserId());
-        existingGoal.setGoalName(goal.getGoalName());
-        existingGoal.setTargetAmount(goal.getTargetAmount());
-        existingGoal.setCurrentAmount(goal.getCurrentAmount());
-        existingGoal.setTargetYear(goal.getTargetYear());
-        existingGoal.setPriority(goal.getPriority());
+        existingGoal.setUserId(dto.getUserId());
+        existingGoal.setGoalName(dto.getGoalName());
+        existingGoal.setTargetAmount(dto.getTargetAmount());
+        existingGoal.setCurrentAmount(dto.getCurrentAmount());
+        existingGoal.setTargetYear(dto.getTargetYear());
+        existingGoal.setPriority(dto.getPriority());
 
         return goalRepository.save(existingGoal);
     }

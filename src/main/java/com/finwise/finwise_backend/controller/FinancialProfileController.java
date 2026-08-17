@@ -1,5 +1,6 @@
 package com.finwise.finwise_backend.controller;
 
+import com.finwise.finwise_backend.dto.FinancialProfileDTO;
 import com.finwise.finwise_backend.entity.FinancialProfile;
 import com.finwise.finwise_backend.service.FinancialProfileService;
 import org.springframework.http.ResponseEntity;
@@ -17,8 +18,10 @@ public class FinancialProfileController {
     }
 
     @PostMapping
-    public FinancialProfile createProfile(@RequestBody FinancialProfile profile) {
-        return financialProfileService.createProfile(profile);
+    public FinancialProfile createProfile(
+            @RequestBody FinancialProfileDTO dto) {
+
+        return financialProfileService.createProfile(dto);
     }
 
     @GetMapping("/{userId}")
@@ -31,10 +34,12 @@ public class FinancialProfileController {
     }
 
     @PutMapping("/{userId}")
-    public FinancialProfile updateProfile(
+    public ResponseEntity<FinancialProfile> updateProfile(
             @PathVariable Long userId,
-            @RequestBody FinancialProfile profile) {
+            @RequestBody FinancialProfileDTO dto) {
 
-        return financialProfileService.updateProfile(userId, profile);
+        return ResponseEntity.ok(
+                financialProfileService.updateProfile(userId, dto)
+        );
     }
 }

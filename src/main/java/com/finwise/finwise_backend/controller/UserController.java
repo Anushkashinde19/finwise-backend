@@ -1,5 +1,6 @@
 package com.finwise.finwise_backend.controller;
 
+import com.finwise.finwise_backend.dto.UserDTO;
 import com.finwise.finwise_backend.entity.User;
 import com.finwise.finwise_backend.service.UserService;
 import org.springframework.http.ResponseEntity;
@@ -9,6 +10,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/users")
+@CrossOrigin(origins = "http://localhost:5173")
 public class UserController {
 
     private final UserService userService;
@@ -18,8 +20,8 @@ public class UserController {
     }
 
     @PostMapping
-    public User createUser(@RequestBody User user) {
-        return userService.createUser(user);
+    public User createUser(@RequestBody UserDTO dto) {
+        return userService.createUser(dto);
     }
 
     @GetMapping
